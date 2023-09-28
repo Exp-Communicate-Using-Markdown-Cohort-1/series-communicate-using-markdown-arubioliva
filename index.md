@@ -10,3 +10,8 @@
 const fruits = ["Banana", "Orange", "Apple", "Mango"];
 fruits.sort();
 ```
+
+- [ ] Banana
+- [x] Orange
+- [x] Apple
+- [x] Mango
